@@ -7,7 +7,7 @@ const Gallery = () => {
         <div className="row">
       <div className="col-12 col-md-6">
             <div>
-        <img className="img-fluid" src="Greece.jpg" alt="pure css slider" width="800" height="280" />
+        <img className="img-fluid" src="Greece.jpg" alt="Greece" width="800" height="280" />
       </div>  
       </div>  
       <div className="col-12">  <h5>What is Lorem Ipsum?
