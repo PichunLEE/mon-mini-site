@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/mon-mini-site/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/mon-mini-site/static/js/main.87ff616f.chunk.js",
+    "main.js.map": "/mon-mini-site/static/js/main.87ff616f.chunk.js.map",
+    "runtime-main.js": "/mon-mini-site/static/js/runtime-main.f9562417.js",
+    "runtime-main.js.map": "/mon-mini-site/static/js/runtime-main.f9562417.js.map",
+    "static/css/2.a75f5a2c.chunk.css": "/mon-mini-site/static/css/2.a75f5a2c.chunk.css",
+    "static/js/2.66b34731.chunk.js": "/mon-mini-site/static/js/2.66b34731.chunk.js",
+    "static/js/2.66b34731.chunk.js.map": "/mon-mini-site/static/js/2.66b34731.chunk.js.map",
+    "static/js/3.2b5c4aad.chunk.js": "/mon-mini-site/static/js/3.2b5c4aad.chunk.js",
+    "static/js/3.2b5c4aad.chunk.js.map": "/mon-mini-site/static/js/3.2b5c4aad.chunk.js.map",
+    "index.html": "/mon-mini-site/index.html",
+    "static/css/2.a75f5a2c.chunk.css.map": "/mon-mini-site/static/css/2.a75f5a2c.chunk.css.map",
+    "static/css/main.ea1455b2.chunk.css.map": "/mon-mini-site/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.66b34731.chunk.js.LICENSE.txt": "/mon-mini-site/static/js/2.66b34731.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/mon-mini-site/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9562417.js",
+    "static/css/2.a75f5a2c.chunk.css",
+    "static/js/2.66b34731.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.87ff616f.chunk.js"
+  ]
+}
